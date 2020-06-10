@@ -15,4 +15,4 @@ whi --input=test_target.txt --output=result.html
 ```
 
 # 结果展示
-![result](./result.png)
+![result](https://raw.githubusercontent.com/PickledFish/whi/master/result.png)
